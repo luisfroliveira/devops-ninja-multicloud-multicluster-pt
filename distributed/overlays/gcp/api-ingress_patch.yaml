@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: api.devops-ninja.ml
+    - host: api.mc.luisfelipedevops.net
       http:
         paths:
           - path: /book
