@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: app.multicloud.ml
+    - host: app.mc.modulofullpower.net
       http:
         paths:
           - backend:
